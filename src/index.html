@@ -1,13 +1,26 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
-  <title>LeTotNghiepInfo</title>
-  <base href="/">
+  <title>HCMUTE COMMENCEMENT CEREMONY</title>
+  <base href="/ltn-ute/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/x-icon" href="assets/img/icon-72x72.png">
+
+  <script>
+    (function () {
+      var redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      if (redirect && redirect != location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
 </head>
+
 <body>
   <app-root></app-root>
 </body>
+
 </html>
