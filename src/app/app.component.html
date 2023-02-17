@@ -1,5 +1,8 @@
 <div class="sv-info" *ngIf="svInfo?.mssv">
-  <p class="hoten">Kỹ sư {{svInfo.hoTen}}</p>
+  <p class="hoten">
+    <span class="danh-hieu">{{svInfo.danhHieu}}</span>
+    {{svInfo.hoTen}}
+  </p>
   <span class="nganh">Ngành {{svInfo.nganh}}</span>
 </div>
 

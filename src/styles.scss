@@ -1,6 +1,10 @@
 @font-face {
-  font-family: "YesevaOne";
-  src: url("/assets/font/YesevaOne-Regular.ttf") format("truetype");
+  font-family: "Aristore";
+  src: url("/assets/font/aristore.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Zirkon";
+  src: url("/assets/font/zirkon.ttf") format("truetype");
 }
 
 body {
@@ -14,24 +18,29 @@ body {
 .sv-info {
   width: 100%;
   position: absolute;
-  top: 23vw;
+  top: 21vw;
   text-align: center;
-  color: #3f51b5;
+  color: #fff;
 
+  .danh-hieu,
   .hoten,
   .nganh {
-    text-transform: uppercase;
-    font-family: "YesevaOne";
-    font-weight: bold;
+    text-transform: capitalize;
+  }
+
+  .danh-hieu {
+    font-size: 3vw;
   }
 
   .hoten {
-    font-size: 4vw;
+    font-family: "Zirkon";
+    font-size: 5vw;
     margin-bottom: 2vw;
   }
 
   .nganh {
-    font-size: 3vw;
+    font-family: "Aristore";
+    font-size: 2.5vw;
   }
 }
 

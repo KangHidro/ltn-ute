@@ -19,15 +19,20 @@ export class AppComponent implements OnInit {
       const sv = this.listSv.find(x => x.mssv === this.mssv);
       if (sv?.hoTen) {
         this.mssv = '';
-        this.svInfo = sv;
+        this.svInfo = Object.assign({}, sv);
       }
-    } else {
-      // Nguyễn văn An;Công nghệ thông tin
+    } else if (this.mssv.includes(';')) {
+      // ks; Nguyễn văn An; Công nghệ thông tin
+      // cn; Nguyễn văn An; Kinh tế
       const tmp = this.mssv.split(';');
       this.mssv = '';
       this.svInfo = {
-        mssv: 'ko', hoTen: tmp[0]?.trim(), nganh: tmp[1]?.trim()
+        mssv: 'ko',
+        danhHieu: tmp[0]?.trim().toLowerCase() === 'ks' ? 'Kỹ sư' : 'Cử nhân',
+        hoTen: tmp[1]?.trim(), nganh: tmp[2]?.trim()
       };
+    } else {
+      this.svInfo.mssv = '';
     }
   }
 }
@@ -36,4 +41,5 @@ class SinhVienInfo {
   mssv: string = '';
   hoTen: string = '';
   nganh: string = '';
+  danhHieu: string = '';
 }
