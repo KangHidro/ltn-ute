@@ -1,12 +1,1 @@
-<div class="sv-info" *ngIf="svInfo?.mssv">
-  <p class="hoten">
-    <span class="danh-hieu">{{svInfo.danhHieu}}</span>
-    {{svInfo.hoTen}}
-  </p>
-  <span class="nganh">Ngành {{svInfo.nganh}}</span>
-</div>
-
-<div class="sv-lookup">
-  <input class="lookup-inp" type="text" [(ngModel)]="mssv" (keyup.enter)="lookup()" [autofocus]="true">
-  <span class="pointer" (click)="mssv=''">X 1</span>
-</div>
+<router-outlet></router-outlet>

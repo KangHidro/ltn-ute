@@ -8,11 +8,18 @@
 }
 
 body {
-  background-image: url("assets/img/bg2.jpg");
   background-size: cover;
   background-repeat-y: no-repeat;
   background-color: #d62d3d;
   overflow: hidden;
+}
+
+.bg-kt {
+  background-image: url("assets/img/bg1.jpg");
+}
+
+.bg-tn {
+  background-image: url("assets/img/bg2.jpg");
 }
 
 .sv-info {
