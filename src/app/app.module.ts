@@ -7,6 +7,8 @@ import { AppComponent } from './app.component';
 import { AutofocusDirective } from './autofocus.directive';
 import { TotNghiepComponent } from './tot-nghiep/tot-nghiep.component';
 import { KhenThuongComponent } from './khen-thuong/khen-thuong.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -19,6 +21,12 @@ import { KhenThuongComponent } from './khen-thuong/khen-thuong.component';
     AppRoutingModule,
     FormsModule,
     AutofocusDirective,
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: environment.production,
+      // Register the ServiceWorker as soon as the application is stable
+      // or after 30 seconds (whichever comes first).
+      registrationStrategy: 'registerWhenStable:30000'
+    }),
   ],
   providers: [],
   bootstrap: [AppComponent]
