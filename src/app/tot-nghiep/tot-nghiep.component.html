@@ -1,9 +1,15 @@
-<div class="sv-info" *ngIf="svInfo?.mssv">
-  <p class="hoten">
-    <span class="danh-hieu">{{svInfo.danhHieu}}</span>
-    {{svInfo.hoTen}}
-  </p>
-  <span class="nganh">Ngành {{svInfo.nganh}}</span>
+<div class="row-sv" *ngIf="svInfo?.mssv">
+  <div class="sv-img" *ngIf="isHaveImg">
+    <img class="w-100" src="assets/img-sv/{{svInfo.mssv}}.jpg" (error)="isHaveImg=false">
+  </div>
+  <div [ngClass]="isHaveImg ? 'sv-info' : 'sv-info sv-no-img'">
+    <p class="hoten">
+      <span class="chuc-mung">Chúc mừng</span><br>
+      <span class="danh-hieu">{{svInfo.danhHieu}}</span>
+      {{svInfo.hoTen}}
+    </p>
+    <span class="nganh">Ngành {{svInfo.nganh}}</span>
+  </div>
 </div>
 
 <div class="sv-lookup">

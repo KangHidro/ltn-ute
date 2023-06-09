@@ -19,13 +19,36 @@ body {
 }
 
 .bg-tn {
-  background-image: url("assets/img/bg2.jpg");
+  background-image: url("assets/img/bg3.jpg");
 }
 
+.row-sv {
+  display: flex;
+  flex-flow: row wrap;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  margin-top: 18vh;
+}
+
+.sv-img {
+  display: block;
+  flex: 0 0 20%;
+  max-width: 20%;
+  margin-top: 15vh;
+
+  position: relative;
+  text-align: center;
+}
+.sv-no-img {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
 .sv-info {
-  width: 100%;
-  position: absolute;
-  top: 19vw;
+  display: block;
+  flex: 0 0 80%;
+  max-width: 80%;
+
+  position: relative;
   text-align: center;
   color: #fff;
 
@@ -33,6 +56,11 @@ body {
   .hoten,
   .nganh {
     text-transform: capitalize;
+  }
+
+  .chuc-mung {
+    font-size: 4vw;
+    color: #f8e16f;
   }
 
   .danh-hieu {
@@ -64,4 +92,8 @@ body {
 
 .pointer {
   cursor: pointer;
+}
+
+.w-100 {
+  width: 100%;
 }

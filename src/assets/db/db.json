@@ -1,3494 +1,740 @@
 [
   {
-    "mssv": "19842006",
-    "hoTen": "Nguyễn Chí Linh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842111",
-    "hoTen": "Nguyễn Hữu Nhã",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842010",
-    "hoTen": "Huỳnh Minh Nhựt",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16542103",
-    "hoTen": "Trần Tiến Dũng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16542317",
-    "hoTen": "Bùi Ngân Giang",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16542239",
-    "hoTen": "Huỳnh Dương Toàn",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17542267",
-    "hoTen": "Nguyễn Hoàng Duyên",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17542346",
-    "hoTen": "Nguyễn Thanh Hậu",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542053",
-    "hoTen": "Nguyễn Thành Chí",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542001",
-    "hoTen": "Trần Hữu Diễn",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542004",
-    "hoTen": "Phạm Thanh Duy",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542054",
-    "hoTen": "Mai Đoàn Anh Đào",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542002",
-    "hoTen": "Phạm Trần Khắc Điệp",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542056",
-    "hoTen": "Phạm Nguyễn Hoàng Hải",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542055",
-    "hoTen": "Trần Trung Hải",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542006",
+    "mssv": "20643023",
     "hoTen": "Nguyễn Văn Hậu",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "nganh": "Công Nghệ Chế Tạo Máy",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19542008",
-    "hoTen": "Nguyễn Văn Hiếu",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20643083",
+    "hoTen": "Lê Kim Trọng",
+    "nganh": "Công Nghệ Chế Tạo Máy",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19542010",
-    "hoTen": "Nguyễn Kim Hoàng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542011",
-    "hoTen": "Võ Xuân Huế",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542015",
-    "hoTen": "Đặng Ngọc Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542016",
-    "hoTen": "Nguyễn Tấn Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542012",
-    "hoTen": "Võ Oai Hùng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542013",
-    "hoTen": "Nguyễn Văn Hưng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542014",
-    "hoTen": "Nguyễn Trọng Hữu",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542017",
-    "hoTen": "Đặng Hoàng Khanh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542018",
-    "hoTen": "Nguyễn Vũ Duy Khương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542057",
-    "hoTen": "Phan Duy Khương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542019",
-    "hoTen": "Nguyễn Lám",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542020",
-    "hoTen": "Huỳnh Khánh Linh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542059",
-    "hoTen": "Nguyễn Bảo Long",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542058",
-    "hoTen": "Phan Quang Long",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542021",
-    "hoTen": "Phan Tấn Lộc",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542022",
-    "hoTen": "Quang Thành Luân",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542025",
-    "hoTen": "Trần Đình Lưu",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542029",
-    "hoTen": "Hà Nam Ninh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542030",
-    "hoTen": "Nguyễn Văn Ninh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542027",
-    "hoTen": "Phan Thành Nghi",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542031",
-    "hoTen": "Cao Lê Phong",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542032",
-    "hoTen": "Lưu Viễn Phương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542033",
-    "hoTen": "Lê Tứ Quang",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542035",
-    "hoTen": "Nguyễn Văn Quý",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542037",
-    "hoTen": "Nguyễn Lương Trung Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542036",
-    "hoTen": "Nguyễn Văn Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542043",
-    "hoTen": "Phạm Văn Tiên",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542048",
-    "hoTen": "Nguyễn Thanh Tú",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542039",
-    "hoTen": "Nguyễn Tiến Thanh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542044",
-    "hoTen": "Đỗ Công Trí",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542045",
-    "hoTen": "Nguyễn Minh Trọng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542047",
-    "hoTen": "Nguyễn Vĩnh Trung",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542046",
-    "hoTen": "Lê Văn Trực",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542062",
-    "hoTen": "Nguyễn Văn Vì",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542063",
-    "hoTen": "Võ Hoàng Vĩ",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542050",
-    "hoTen": "Nguyễn Quốc Vương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542051",
-    "hoTen": "Nguyễn Văn Vương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542064",
-    "hoTen": "Nguyễn Trần Bảo",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542066",
-    "hoTen": "Nguyễn Quốc Cường",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542065",
-    "hoTen": "Đặng Đình Chung",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542067",
-    "hoTen": "Huỳnh Công Danh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542071",
-    "hoTen": "Đỗ Văn Hải",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542075",
-    "hoTen": "Trần Đức Hùng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542077",
-    "hoTen": "Mai Đình Khang",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542078",
-    "hoTen": "Trần Duy Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542079",
-    "hoTen": "Nguyễn Đăng Minh Khiết",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542080",
-    "hoTen": "Trần Linh Khoa",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542082",
-    "hoTen": "Đặng Thế Mỹ",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542083",
-    "hoTen": "Hồ Trọng Nghĩa",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542088",
-    "hoTen": "Thái Ngọc Minh Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542155",
-    "hoTen": "Quách Phú Thành",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542094",
-    "hoTen": "Hoàng Trí Thông",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542097",
-    "hoTen": "Phạm Minh Nhật Trường",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542099",
-    "hoTen": "Nguyễn Đức Việt",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542102",
-    "hoTen": "Trần Thế Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542101",
-    "hoTen": "Chu Nhật Ân",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542105",
-    "hoTen": "Vũ Viết Khuyến",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542106",
-    "hoTen": "Phan Thành Long",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542109",
-    "hoTen": "Lê Hoàng Minh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542113",
-    "hoTen": "Huỳnh Minh Phát",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542111",
-    "hoTen": "Nguyễn Hoàng Minh Phát",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542115",
-    "hoTen": "Lê Văn Sang",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542116",
-    "hoTen": "Nguyễn Tiến Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542117",
-    "hoTen": "Lê Minh Tân",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542122",
-    "hoTen": "Phạm Quốc Tiến",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542123",
-    "hoTen": "Lê An Toàn",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542125",
-    "hoTen": "Nguyễn Tấn Tú",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542120",
-    "hoTen": "Nguyễn Văn Thông",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542124",
-    "hoTen": "Trần Minh Trí",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19542126",
-    "hoTen": "Đoàn Khải Uy",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18642260",
-    "hoTen": "Phan Chí Thành",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842026",
-    "hoTen": "Phạm Hoàng Đạo",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842034",
-    "hoTen": "Phạm Vi Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842036",
-    "hoTen": "Phan Công Luận",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642141",
-    "hoTen": "Nguyễn Văn Hùng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642162",
-    "hoTen": "Nguyễn Công Quân",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842119",
-    "hoTen": "Phạm Hồng Sơn",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842148",
-    "hoTen": "Đặng Hoàng Tiến",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842193",
-    "hoTen": "Lê Hồng Ân",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842191",
-    "hoTen": "Trịnh Văn Phúc",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842251",
-    "hoTen": "Phạm Tấn Đạt",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842252",
-    "hoTen": "Vũ Văn Phong",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842253",
-    "hoTen": "Trần Thế Phương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842254",
-    "hoTen": "Đỗ Văn Thạch",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842230",
-    "hoTen": "Nguyễn Hoàng Quốc Vũ",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842255",
-    "hoTen": "Phan Thanh Vũ",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19646016",
-    "hoTen": "Lê Gia Tình",
+    "mssv": "20646014",
+    "hoTen": "Nguyễn Gia Linh",
     "nganh": "Công Nghệ Kỹ Thuật Cơ Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19646015",
-    "hoTen": "Hoàng Đức Thành",
+    "mssv": "20845007",
+    "hoTen": "Ngô Trung Hiếu",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843005",
+    "hoTen": "Nguyễn Bật Biên",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843007",
+    "hoTen": "Trần Quang Đạt",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643008",
+    "hoTen": "Lê Đức Công",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643009",
+    "hoTen": "Mai Nhựt Cường",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643018",
+    "hoTen": "Nguyễn Quốc Dương",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643046",
+    "hoTen": "Đỗ Hữu Phước",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643054",
+    "hoTen": "Trần Chí Tâm",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643065",
+    "hoTen": "Đặng Minh Trí",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643067",
+    "hoTen": "Chướng Tích Trung",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843083",
+    "hoTen": "Hồ Sỹ Tiến",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843085",
+    "hoTen": "Đỗ Ngọc Toàn",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843105",
+    "hoTen": "Võ Hiệp Tấn",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843106",
+    "hoTen": "Mai Xuân Thịnh",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20846014",
+    "hoTen": "Trần Minh Thắng",
     "nganh": "Công Nghệ Kỹ Thuật Cơ Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18646059",
-    "hoTen": "Chu Tiến Sang",
+    "mssv": "20661051",
+    "hoTen": "Phùn Thị Cẩm Ý",
+    "nganh": "Công Nghệ Kỹ Thuật Điện Tử - Viễn Thông",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20842117",
+    "hoTen": "Ngô Bữu Sự",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20842125",
+    "hoTen": "Lê Nam Thức",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20842148",
+    "hoTen": "Nguyễn Tấn Phát",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20845158",
+    "hoTen": "Nguyễn Văn Kiên",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20645041",
+    "hoTen": "Mai Văn Hoàng",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20645058",
+    "hoTen": "Trương Thái Hữu Nhân",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20645088",
+    "hoTen": "Hoàng Đình Hải Triều",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20845001",
+    "hoTen": "Trần Trọng Ân",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20845002",
+    "hoTen": "Từ Lê Hải Bằng",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "18543024",
+    "hoTen": "Lý Thành Sang",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843003",
+    "hoTen": "Nguyễn Ngọc Anh",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843017",
+    "hoTen": "Trần Đình Khải",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843032",
+    "hoTen": "Lê Tạ Đức Thọ",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643025",
+    "hoTen": "Đặng Văn Hiếu",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643061",
+    "hoTen": "Trần Quang Tín",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20643063",
+    "hoTen": "Đậu Quốc Toàn",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843045",
+    "hoTen": "Lê Văn Cường",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843054",
+    "hoTen": "Lý Quang Huy",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843073",
+    "hoTen": "Trần Kim Quy",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843080",
+    "hoTen": "Lê Hà Thành",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843081",
+    "hoTen": "Võ Minh Thông",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843090",
+    "hoTen": "Tống Minh Tuệ",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20843092",
+    "hoTen": "Phạm Hữu Tuynh",
+    "nganh": "Công Nghệ Chế Tạo Máy",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20646005",
+    "hoTen": "Phạm Tài Đức",
     "nganh": "Công Nghệ Kỹ Thuật Cơ Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19604025",
-    "hoTen": "Trần Trung Khánh",
-    "nganh": "Kỹ Thuật Công Nghiệp",
+    "mssv": "20846006",
+    "hoTen": "Võ Gia Lễ",
+    "nganh": "Công Nghệ Kỹ Thuật Cơ Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19643041",
-    "hoTen": "Nguyễn Hồng Thiện",
-    "nganh": "Công Nghệ Chế Tạo Máy",
+    "mssv": "20846009",
+    "hoTen": "Nguyễn Duy Minh",
+    "nganh": "Công Nghệ Kỹ Thuật Cơ Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "16543058",
-    "hoTen": "Lê Anh Dũng",
-    "nganh": "Công Nghệ Chế Tạo Máy",
+    "mssv": "20846011",
+    "hoTen": "Nguyễn Thị Thảo Nhi",
+    "nganh": "Công Nghệ Kỹ Thuật Cơ Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "16543057",
-    "hoTen": "Hà Văn Đức",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543028",
-    "hoTen": "Nguyễn Đăng Đức",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543053",
-    "hoTen": "Vũ Công Thưởng",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18543001",
-    "hoTen": "Nguyễn Tiến An",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18543006",
-    "hoTen": "Nguyễn Hoàng Duy",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18543007",
-    "hoTen": "Nguyễn Tấn Hải",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18543018",
-    "hoTen": "Đặng Châu Luân",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543019",
-    "hoTen": "Lê Nam Anh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543003",
-    "hoTen": "Nguyễn Minh Đức",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543005",
-    "hoTen": "Trần Hữu Hiệp",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543007",
-    "hoTen": "Nguyễn Cao Huy",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543006",
-    "hoTen": "Thái Việt Hùng",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543011",
-    "hoTen": "Trần Văn Phèo",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543012",
-    "hoTen": "Nguyễn Hoàng Phong",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543014",
-    "hoTen": "Trần Công Vĩnh Tiên",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543016",
-    "hoTen": "Nguyễn Chí Trung",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543022",
-    "hoTen": "Huỳnh Thái An",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543024",
-    "hoTen": "Trần Minh Công",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543028",
-    "hoTen": "Hoàng Nghĩa Hiếu",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543029",
-    "hoTen": "Phạm Giang Hưng",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543030",
-    "hoTen": "Trần Vũ Khánh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543033",
-    "hoTen": "Nguyễn Hoài Nam",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543035",
-    "hoTen": "Phạm Thành Phước",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543041",
-    "hoTen": "Huỳnh Minh Toàn",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543040",
-    "hoTen": "Tống Ngọc Thanh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19543045",
-    "hoTen": "Lê Phạm Như Ý",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843021",
-    "hoTen": "Nguyễn Dương Trường Định",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643093",
-    "hoTen": "Phạm Thanh Hoài",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17843073",
-    "hoTen": "Trần Nhật Huy",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843084",
-    "hoTen": "Nguyễn Cảnh Huy",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843092",
-    "hoTen": "Nguyễn Hoàng Phong",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843035",
-    "hoTen": "Nguyễn Minh Tấn",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843106",
-    "hoTen": "Nguyễn Đức Tuyền",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843110",
-    "hoTen": "Đinh Hồng Xuân",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643190",
-    "hoTen": "Hoàng Đỗ Đình Cảnh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643196",
-    "hoTen": "Phạm Lê Lai Láng",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643199",
-    "hoTen": "Võ Tuấn Linh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643200",
-    "hoTen": "Trương Công Ngọc",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19647003",
-    "hoTen": "Võ Văn Hợi",
-    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18847004",
-    "hoTen": "Đào Văn Chí Công",
-    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17445022",
-    "hoTen": "Đặng Quốc Thịnh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17445029",
-    "hoTen": "Trần Thanh Thọ",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645008",
-    "hoTen": "Đàm Hoàng Hiển",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16545003",
-    "hoTen": "Nguyễn Thái Học",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16545033",
-    "hoTen": "Phan Thành Rạng Nhật",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545007",
-    "hoTen": "Phan Thanh Duy",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545006",
-    "hoTen": "Nguyễn Hải Dương",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545014",
-    "hoTen": "Trương Tuấn Kiệt",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545011",
-    "hoTen": "Nguyễn Quốc Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545017",
-    "hoTen": "Ngô Hoàng Long",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545020",
-    "hoTen": "Nguyễn Công Phú",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545028",
-    "hoTen": "Trần Công Tiến",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545030",
-    "hoTen": "Lê Văn Huy Vũ",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545002",
-    "hoTen": "Lê Văn Cứ",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545008",
-    "hoTen": "Lê Vinh Nhất",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545009",
-    "hoTen": "Nguyễn Công Phú",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545013",
-    "hoTen": "Nguyễn Thành Trúc",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545030",
-    "hoTen": "Nguyễn Hữu Lợi",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545036",
-    "hoTen": "Hoàng Nguyễn Quốc Thanh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545057",
-    "hoTen": "Nguyễn Việt Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545046",
-    "hoTen": "Nguyễn Hữu Khiêm",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545048",
-    "hoTen": "Phan Hoài Khương",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545054",
-    "hoTen": "Nguyễn Thanh Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545055",
-    "hoTen": "Võ Phước Thạnh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19545056",
-    "hoTen": "Nguyễn Khánh Vang",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18645128",
-    "hoTen": "Phạm Thanh Nhàn",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845023",
-    "hoTen": "Lương Nguyễn Thành Nhân",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845044",
-    "hoTen": "Trần Ngọc Nam",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645127",
-    "hoTen": "Nguyễn Văn Phước",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845065",
-    "hoTen": "Bùi Quốc Việt",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845082",
-    "hoTen": "Trần Minh Thành",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645275",
-    "hoTen": "Nguyễn Đình Hoàng Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845185",
-    "hoTen": "Trần Tuấn Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845186",
-    "hoTen": "Lê Phúc Hậu",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645235",
-    "hoTen": "Nguyễn Trung Hiếu",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645239",
-    "hoTen": "Sầm Thái Hưng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645242",
-    "hoTen": "Nguyễn Ngọc Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645244",
-    "hoTen": "Lê Minh Khoa",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645245",
-    "hoTen": "Lê Hoàng Long",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845144",
-    "hoTen": "Võ Hùng Lộc",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845136",
-    "hoTen": "Lê Trần Nam",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845171",
-    "hoTen": "Lê Trung Phi",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645251",
-    "hoTen": "Hứa Trường Sơn",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645253",
-    "hoTen": "Huỳnh Tấn Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645254",
-    "hoTen": "Trần Duy Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845192",
-    "hoTen": "Võ Hữu Anh Tuấn",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645256",
-    "hoTen": "Nguyễn Hoàng Thái",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645269",
-    "hoTen": "Nguyễn Quang Thạch",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645289",
-    "hoTen": "Lê Đức Thọ",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645258",
-    "hoTen": "Lê Nam Trọng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845142",
-    "hoTen": "Nguyễn Thành Vương",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19849002",
-    "hoTen": "Phan Thành Trung",
+    "mssv": "20849028",
+    "hoTen": "Phan Trần Thái",
     "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "17549030",
-    "hoTen": "Vũ Văn Tới",
+    "mssv": "20649032",
+    "hoTen": "Nguyễn Hoài Phong",
     "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549005",
-    "hoTen": "Đặng Ngọc Hải",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20661028",
+    "hoTen": "Nguyễn Gia Long",
+    "nganh": "Công Nghệ Kỹ Thuật Điện Tử - Viễn Thông",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549007",
-    "hoTen": "Nguyễn Văn Hòa",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20661042",
+    "hoTen": "Nguyễn Xuân Thảo",
+    "nganh": "Công Nghệ Kỹ Thuật Điện Tử - Viễn Thông",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549016",
-    "hoTen": "Đỗ Trung Nam",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20661047",
+    "hoTen": "Phan Bá Tuấn",
+    "nganh": "Công Nghệ Kỹ Thuật Điện Tử - Viễn Thông",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549017",
-    "hoTen": "Phạm Hữu Nghĩa",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "17542261",
+    "hoTen": "Đoàn Nguyễn Hoàng Trương Chi",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549019",
-    "hoTen": "Đạo Duy Tạo",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842029",
+    "hoTen": "Nguyễn Lê Tuấn Anh",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549023",
-    "hoTen": "Đặng Việt Anh Tiến",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842030",
+    "hoTen": "Văn Tuấn Anh",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549024",
-    "hoTen": "Phạm Hoàn Tín",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842036",
+    "hoTen": "Tống Bá Hiếu",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549021",
-    "hoTen": "Tô Bế Phước Thành",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842048",
+    "hoTen": "Nguyễn Tùng Lâm",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549020",
-    "hoTen": "Lại Thành Thắng",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20642001",
+    "hoTen": "Châu Văn Linh",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549025",
-    "hoTen": "Nguyễn Vương Quang Vinh",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842050",
+    "hoTen": "Lê Kim Ngân",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19549026",
-    "hoTen": "Nguyễn Thế Vũ",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842057",
+    "hoTen": "Đào Đức Đăng Quang",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18649025",
-    "hoTen": "Phạm Quốc Thuận",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842062",
+    "hoTen": "Nguyễn Đức Anh Tuấn",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18649154",
-    "hoTen": "Lê Công Nhật Duy",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842065",
+    "hoTen": "Nguyễn Văn Cương",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18649151",
-    "hoTen": "Phạm Tiến Dũng",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842067",
+    "hoTen": "Lê Nguyễn Hoàng Nhân",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18849010",
-    "hoTen": "Nguyễn Nhật Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842068",
+    "hoTen": "Lê Tấn Phát",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18849028",
-    "hoTen": "Đỗ Quang Danh",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20642007",
+    "hoTen": "Nguyễn Hồng Sơn",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18849100",
-    "hoTen": "Nguyễn Hoàng Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842069",
+    "hoTen": "Hồ Tân Tài",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649029",
-    "hoTen": "Nguyễn Đình Dương",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842070",
+    "hoTen": "Nguyễn Gia Tâm",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649094",
-    "hoTen": "Ngô Đình Nguyên",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842074",
+    "hoTen": "Duơng Triều Vỹ",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649098",
-    "hoTen": "Trần Hữu Sự",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20642010",
+    "hoTen": "Nguyễn Tấn Cường",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649114",
-    "hoTen": "Lê Nhật Vy",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20642019",
+    "hoTen": "Nguyễn Ngọc Hùng",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649144",
-    "hoTen": "Nguyễn Hoàng Phúc",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20642028",
+    "hoTen": "Nguyễn Xuân Kỳ",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649154",
-    "hoTen": "Lê Văn Tín",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20642065",
+    "hoTen": "Nguyễn Nhựt Tường",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649163",
-    "hoTen": "Vương Đức Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842094",
+    "hoTen": "Đồng Nhật Khoa",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649164",
-    "hoTen": "Đinh Văn Ban",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842119",
+    "hoTen": "Nguyễn Thành Tài",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649170",
-    "hoTen": "Danh Minh Duy",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842143",
+    "hoTen": "Trần Nguyễn Đăng Khoa",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649168",
-    "hoTen": "Lương Văn Điền",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842150",
+    "hoTen": "Trần Nguyễn Phúc",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649173",
-    "hoTen": "Lê Hoàng Hải",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842159",
+    "hoTen": "Trần Lê Anh Thi",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649177",
-    "hoTen": "Nguyễn Ngọc Khương",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842165",
+    "hoTen": "Thái  Trọng",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649180",
-    "hoTen": "Trần Hữu Lý",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20842169",
+    "hoTen": "Lê Xuân Vũ",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649186",
-    "hoTen": "Nguyễn Văn Ngọc",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649188",
-    "hoTen": "La Chí Nhân",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649195",
-    "hoTen": "Trần Trung Tín",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649194",
-    "hoTen": "Bùi Hưng Thịnh",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649202",
-    "hoTen": "Lê Quốc Việt",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "20821033",
-    "hoTen": "Trần Ngọc Bích",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821036",
-    "hoTen": "Võ Ngọc Duyên",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821038",
-    "hoTen": "Trần Ngọc Thái Hòa",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821039",
-    "hoTen": "Biện Thị Huệ",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821040",
-    "hoTen": "Nguyễn Thanh Huệ",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821042",
-    "hoTen": "Nguyễn Hữu Kha",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821043",
-    "hoTen": "Nguyễn Thị Thùy Loan",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821049",
-    "hoTen": "Vương Huỳnh Thanh Tâm",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821050",
-    "hoTen": "Trần Thị Thu Thảo",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821051",
-    "hoTen": "Võ Thị Thùy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821052",
-    "hoTen": "Huỳnh Bảo Trâm",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821053",
-    "hoTen": "Nguyễn Anh Bảo Trân",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821055",
-    "hoTen": "Lại Thị Hoàng Yến",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821001",
-    "hoTen": "Lý Thị Hồng Cẩm",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821003",
-    "hoTen": "Lê Thị Diễm",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821002",
-    "hoTen": "Võ Thị Diễm",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821004",
-    "hoTen": "Ngô Thoại Dung",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821005",
-    "hoTen": "Trần Thúy Hằng",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821006",
-    "hoTen": "Trần Ngọc Hiển",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821007",
-    "hoTen": "Nguyễn Thị Ngọc Hoa",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821008",
-    "hoTen": "Huỳnh Thị Hon",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821010",
-    "hoTen": "Huỳnh Thị Ánh Hồng",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821009",
-    "hoTen": "Huỳnh Thị Tuyết Hồng",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821012",
-    "hoTen": "Phạm Thị Lê",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821013",
-    "hoTen": "Nguyễn Thị Kim Liên",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821014",
-    "hoTen": "Nguyễn Thị Mỹ Linh",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821016",
-    "hoTen": "Nguyễn Thùy Linh",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821015",
-    "hoTen": "Trương Thị Kiều Linh",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821017",
-    "hoTen": "Tiền Thị Ngọc Loan",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821018",
-    "hoTen": "Phan Thị Nghiêm",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821019",
-    "hoTen": "Đinh Ngọc Nguyên",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821020",
-    "hoTen": "Huỳnh Thị Nhẹ",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821022",
-    "hoTen": "Lư Kỳ Nhi",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821023",
-    "hoTen": "Nguyễn Tố Như",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821024",
-    "hoTen": "Nguyễn Ngọc Phi",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821057",
-    "hoTen": "Võ Thị Hồng Tươi",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821025",
-    "hoTen": "Nguyễn Thị Thơ",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821026",
-    "hoTen": "Huỳnh Diệu Thuần",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821027",
-    "hoTen": "Nguyễn Thị Kim Thủy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821056",
-    "hoTen": "Nguyễn Thị Thu Thủy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821028",
-    "hoTen": "Huỳnh Nguyễn Bảo Thy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821030",
-    "hoTen": "Lê Thị Kim Vui",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821031",
-    "hoTen": "Huỳnh Thu Y",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20821032",
-    "hoTen": "Thái Thị Kim Yến",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "16810077",
-    "hoTen": "Mai Đăng Hoàng",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16810035",
-    "hoTen": "Lê Thị Kim Thùy",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "16810074",
-    "hoTen": "Mai Hoàng Anh Vũ",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18810100",
-    "hoTen": "Phạm Minh Tuấn",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19610019",
-    "hoTen": "Phan Mẫn Linh",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19610023",
-    "hoTen": "Nguyễn Phạm Tuấn Anh",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19610031",
-    "hoTen": "Trần Quốc Phong",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19610044",
-    "hoTen": "Nguyễn Văn Trọng",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19610036",
-    "hoTen": "Nguyễn Văn Bá Thái",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19810024",
-    "hoTen": "Phan Châu Hửu Thịnh",
-    "nganh": "Công Nghệ Thông Tin",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19850034",
-    "hoTen": "Hà Thị Xuân Nguyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650001",
-    "hoTen": "Đào Thị Bảo Anh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650002",
-    "hoTen": "Phạm Kim Ánh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650003",
-    "hoTen": "Nguyễn Tấn Công",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650005",
-    "hoTen": "Trần Nguyễn Thanh Duy",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650008",
-    "hoTen": "Lê Thị Cẩm Duyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650070",
-    "hoTen": "Phạm Thị Lệ Duyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650004",
-    "hoTen": "Lê Hữu Đức",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650009",
-    "hoTen": "Võ Thị Hồng Gấm",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650014",
-    "hoTen": "Tô Thị Tuyết Hạnh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650010",
-    "hoTen": "Lê Xuân Hằng",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650012",
-    "hoTen": "Nguyễn Thị Thanh Hằng",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650013",
-    "hoTen": "Nguyễn Thị Thanh Hằng",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650015",
-    "hoTen": "Nguyễn Thị Hậu",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650016",
-    "hoTen": "Nguyễn Như Hiếu",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650018",
-    "hoTen": "Nguyễn Thanh Hương",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650019",
-    "hoTen": "Đào Đăng Khoa",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650020",
-    "hoTen": "Phạm Hồng Bảo Khuyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650021",
-    "hoTen": "Trịnh Thị Lệ",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650022",
-    "hoTen": "Lê Thị Thùy Linh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650023",
-    "hoTen": "Ngô Thị Loan",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650024",
-    "hoTen": "Nguyễn Văn Mến",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650026",
-    "hoTen": "Nguyễn Thanh Minh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650025",
-    "hoTen": "Võ Huỳnh Thoại Minh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650027",
-    "hoTen": "Tô Thị Hằng Nga",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650029",
-    "hoTen": "Trần Vũ Trung Nghĩa",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650031",
-    "hoTen": "Mai Thị Hạnh Nguyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650030",
-    "hoTen": "Tống Viết Khôi Nguyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650033",
-    "hoTen": "Mạc Thị Nhạng",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650032",
-    "hoTen": "Nguyễn Hoàng Nhân",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650035",
-    "hoTen": "Diệp Mỹ Phương",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650034",
-    "hoTen": "Lê Hoài Phương",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650036",
-    "hoTen": "Ngô Kim Quyền",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650037",
-    "hoTen": "Đào Thị Như Quỳnh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650038",
-    "hoTen": "Thành Nữ Ni Sa",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650039",
-    "hoTen": "Võ Thị Thanh Tâm",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650047",
-    "hoTen": "Nguyễn Thị Thanh Tiết",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650061",
-    "hoTen": "Bùi Võ Kim Tuyền",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650060",
-    "hoTen": "Đoàn Ngọc Mộng Tuyền",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650057",
-    "hoTen": "Chu Nguyễn Thanh Tú",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650040",
-    "hoTen": "Nguyễn Thị Trúc Thanh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650071",
-    "hoTen": "Nguyễn Ngọc Thiên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650041",
-    "hoTen": "Nguyễn Thị Thu",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650045",
-    "hoTen": "Võ Kim Thủy",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650043",
-    "hoTen": "Nguyễn Thị Thanh Thúy",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650046",
-    "hoTen": "Trần Thị Hồng Thụy",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650042",
-    "hoTen": "Trần Nguyễn Nhật Thư",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650050",
-    "hoTen": "Mai Thị Huyền Trang",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650049",
-    "hoTen": "Nguyễn Thanh Mai Trang",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650048",
-    "hoTen": "Lê Thị Bích Trâm",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650052",
-    "hoTen": "Lục Thị Mai Trinh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650054",
-    "hoTen": "Nguyễn Vũ Bảo Trinh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650053",
-    "hoTen": "Phạm Thị Ngọc Trinh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650051",
-    "hoTen": "Trần Đức Trí",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650056",
-    "hoTen": "Nguyễn Thị Ngọc Truyền",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650055",
-    "hoTen": "Lê Huỳnh Thanh Trúc",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650063",
-    "hoTen": "Nguyễn Thị Thúy Uyên",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650065",
-    "hoTen": "Nguyễn Thị Thảo Vi",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650064",
-    "hoTen": "Trần Thị Tường Vi",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650068",
-    "hoTen": "Phan Nguyễn Thanh Xuân",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20650069",
-    "hoTen": "Nguyễn Thị Hồng Yến",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "16525084",
-    "hoTen": "Võ Văn Tâm",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "16525089",
-    "hoTen": "Nguyễn Thị Xa Vang",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19651003",
-    "hoTen": "Lê Gia Phương Duy",
+    "mssv": "20651014",
+    "hoTen": "Ngô Trọng Nghĩa",
     "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19651008",
-    "hoTen": "Hoàng Văn Hùng",
+    "mssv": "20851005",
+    "hoTen": "Ngô Thanh Quốc Phong",
     "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19651013",
-    "hoTen": "Nguyễn Văn Thiện",
+    "mssv": "20651017",
+    "hoTen": "Trần Đình Quang",
     "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19642044",
-    "hoTen": "Bùi Minh Quang",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20651018",
+    "hoTen": "Lê Như Thiên Sao",
+    "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19842015",
-    "hoTen": "Nguyễn Khấu Tỷ",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20651019",
+    "hoTen": "Nguyễn Hửu Tân",
+    "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19642056",
-    "hoTen": "Nguyễn Duy Thanh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20651021",
+    "hoTen": "Trần Quốc Thắng",
+    "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "12142088",
-    "hoTen": "Lê Công Hoàng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20651024",
+    "hoTen": "Nguyễn Ngọc Thiết",
+    "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "17542270",
-    "hoTen": "Nguyễn Trung Hòa",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20651030",
+    "hoTen": "Phạm Hoàng Vương",
+    "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18542063",
-    "hoTen": "Phạm Văn Dũng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "mssv": "20851010",
+    "hoTen": "Lê Phước Xuyên",
+    "nganh": "Công Nghệ Kỹ Thuật Điều Khiển Và Tự Động Hoá",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "18542071",
-    "hoTen": "Huỳnh Văn Huấn",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18542082",
-    "hoTen": "Trương Hồng Phú",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18542105",
-    "hoTen": "Lê Đình Vũ",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18642064",
-    "hoTen": "Nguyễn Đỗ Thành Đạt",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18642073",
-    "hoTen": "Đỗ Thế Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18642134",
-    "hoTen": "Trần Tuấn Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17842136",
-    "hoTen": "Nguyễn Đức Thiện",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17842096",
-    "hoTen": "Nguyễn Minh Triết",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18842120",
-    "hoTen": "Nguyễn Tài Ba",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18842134",
-    "hoTen": "Nguyễn Văn Thành Minh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18842239",
-    "hoTen": "Lê Văn Nam",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842024",
-    "hoTen": "Võ Văn Danh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842043",
-    "hoTen": "Nguyễn Duy Phước",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842051",
-    "hoTen": "Trương Quang Vinh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642197",
-    "hoTen": "Phan Vũ Minh Hoàng",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642199",
-    "hoTen": "Trần Văn Huỳnh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642200",
-    "hoTen": "Huỳnh Minh Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642148",
-    "hoTen": "Phan Nhựt Long",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642153",
-    "hoTen": "Vũ Hoàng Nam",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642166",
-    "hoTen": "Nguyễn Văn Sự",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842144",
-    "hoTen": "Bùi Ngân Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642167",
-    "hoTen": "Trần Trọng Tân",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842118",
-    "hoTen": "Đào Văn Thoại",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642228",
-    "hoTen": "Nguyễn Hoài Thương",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842164",
-    "hoTen": "Vũ Huy Hòa",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842180",
-    "hoTen": "Diệp Trọng Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19642290",
-    "hoTen": "Nguyễn Hữu Trình",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842237",
-    "hoTen": "Lê Duy Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19842245",
-    "hoTen": "Đỗ Mạnh Tường",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19604001",
-    "hoTen": "Đỗ Thị Diễm Châu",
-    "nganh": "Kỹ Thuật Công Nghiệp",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19604004",
-    "hoTen": "Mai Hoàng Giang",
-    "nganh": "Kỹ Thuật Công Nghiệp",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19604006",
-    "hoTen": "Trần Thị Ngọc Hân",
-    "nganh": "Kỹ Thuật Công Nghiệp",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19604014",
-    "hoTen": "Ngô Khánh Quỳnh",
-    "nganh": "Kỹ Thuật Công Nghiệp",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843002",
-    "hoTen": "Lê Hán Kiện",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643028",
-    "hoTen": "Nguyễn Thiên Phú",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543003",
-    "hoTen": "Nguyễn Văn Du",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543014",
-    "hoTen": "Nguyễn Viết Tài",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543055",
-    "hoTen": "Nguyễn Hoàng Tính",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543061",
-    "hoTen": "Phạm Văn Tuyên",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543057",
-    "hoTen": "Phạm Anh Tú",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543063",
-    "hoTen": "Nguyễn Thành Vinh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18543019",
-    "hoTen": "Thang Quảng Nguyên",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18843075",
-    "hoTen": "Nguyễn Văn Duy",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643122",
-    "hoTen": "Nguyễn Dương Cảnh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643124",
-    "hoTen": "Huỳnh Văn Danh",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843077",
-    "hoTen": "Nguyễn Đình Hải",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843088",
-    "hoTen": "Hứa Văn Ngọc Lợi",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843089",
-    "hoTen": "Nguyễn Tấn Nam",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643174",
-    "hoTen": "Nguyễn So Ni",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19643175",
-    "hoTen": "Lai Thành Pháp",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843091",
-    "hoTen": "Tạ Hồng Phát",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843107",
-    "hoTen": "Vi Văn Út",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19843109",
-    "hoTen": "Nguyễn Đức Việt",
-    "nganh": "Công Nghệ Chế Tạo Máy",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19647026",
-    "hoTen": "Huỳnh Hoàng Khải",
+    "mssv": "19847024",
+    "hoTen": "Bùi Thanh Hưng",
     "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19647032",
-    "hoTen": "Nguyễn Hoài Nam",
+    "mssv": "19847040",
+    "hoTen": "Nguyễn Võ Khai Nguyên",
     "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19647033",
-    "hoTen": "Đỗ Văn Nên",
+    "mssv": "20847003",
+    "hoTen": "Thành Quốc Cường",
     "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19647039",
-    "hoTen": "Phan Phú Tân",
+    "mssv": "20647007",
+    "hoTen": "Võ Tấn Minh Duy",
     "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19647040",
-    "hoTen": "Lê Tấn Tấn",
+    "mssv": "20847009",
+    "hoTen": "Thạch Phúc Hậu",
     "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645003",
-    "hoTen": "Trần Thành Công",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645007",
-    "hoTen": "Phạm Hà",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845001",
-    "hoTen": "Nguyễn Song Hảo",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645011",
-    "hoTen": "Nguyễn Chí Hoàng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645015",
-    "hoTen": "Lê Hữu Khang",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645018",
-    "hoTen": "Phạm Viết Anh Khôi",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645057",
-    "hoTen": "Trần Vũ Luân",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645019",
-    "hoTen": "Nguyễn Văn Mạnh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645022",
-    "hoTen": "Đào Công Nghĩa",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645027",
-    "hoTen": "Phan Thành Quý",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645036",
-    "hoTen": "Lê Bá Tiến",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645038",
-    "hoTen": "Trần Minh Trí",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "13145225",
-    "hoTen": "Nguyễn Quốc Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545002",
-    "hoTen": "Đỗ Minh Đạt",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545005",
-    "hoTen": "Trần Kim Đức",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545010",
-    "hoTen": "Văn Hùng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545018",
-    "hoTen": "Nguyễn Văn Nhị",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545022",
-    "hoTen": "Lương Thiên Phước",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18545031",
-    "hoTen": "Đinh Hoàng Vỹ",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18845178",
-    "hoTen": "Lợi Thanh Hùng Dũng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18845158",
-    "hoTen": "Vũ Tuấn Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845019",
-    "hoTen": "Võ Xuân Lâm",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845029",
-    "hoTen": "Ngô Hoàng Trung",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845030",
-    "hoTen": "Đào Duy Trường",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645059",
-    "hoTen": "Nguyễn Cao Thế Bảo",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845035",
-    "hoTen": "Phùng Quốc Bảo",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645061",
-    "hoTen": "Đoàn Văn Đạt",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845036",
-    "hoTen": "Ngô Hồ Tuấn Đạt",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645067",
-    "hoTen": "Trần Công Hậu",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845043",
-    "hoTen": "Nguyễn Đặng Trọng Khánh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645071",
-    "hoTen": "Chế Anh Khoa",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645075",
-    "hoTen": "Mai Văn Long",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645074",
-    "hoTen": "Dương Phi Lộc",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645077",
-    "hoTen": "Ngô Văn Mạnh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645078",
-    "hoTen": "Bạch Lê Tiến Phát",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645080",
-    "hoTen": "Trần Quốc Phục",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645081",
-    "hoTen": "Ngô Thanh Quang",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645083",
-    "hoTen": "Lê Thanh Sang",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845061",
-    "hoTen": "Nguyễn Minh Tiên",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645090",
-    "hoTen": "Nguyễn Nhật Thành",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845059",
-    "hoTen": "Trần Thị Thanh Thảo",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645134",
-    "hoTen": "Đỗ Quang Thắng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645098",
-    "hoTen": "Nguyễn Nhựt Trường",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845062",
-    "hoTen": "Trần Nhựt Trường",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845070",
-    "hoTen": "Phạm Quốc Cường",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645152",
-    "hoTen": "Bùi Quốc Đại",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845072",
-    "hoTen": "Nguyễn Lê Hoàng HiếU",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645165",
-    "hoTen": "Trần Hoàng Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845073",
-    "hoTen": "Võ Hoàng Khải",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645174",
-    "hoTen": "Trần Sơn Lâm",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645176",
-    "hoTen": "Đinh Trương Nhật Lễ",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845075",
-    "hoTen": "Lê Thanh Lợi",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645184",
-    "hoTen": "Phạm Hoài Nam",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845076",
-    "hoTen": "Hoàng Kim Nhật",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845078",
-    "hoTen": "Đồng Minh Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845079",
-    "hoTen": "Nguyễn Phát Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845113",
-    "hoTen": "Nguyễn Nhân Tâm",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845080",
-    "hoTen": "Nguyễn Tống Duy Tân",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845081",
-    "hoTen": "Nguyễn Chiến Thắng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645198",
-    "hoTen": "Trần Tài Thế",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645202",
-    "hoTen": "Mai Thanh Thuận",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645221",
-    "hoTen": "Phan Trường An",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20847010",
+    "hoTen": "Trần Văn Hùng",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845147",
-    "hoTen": "Đặng Nguyễn Tuấn Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645223",
-    "hoTen": "Nguyễn Hoàng Trọng Anh",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645225",
-    "hoTen": "Nguyễn Hoài Bảo",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845150",
-    "hoTen": "Trần Hải Bình",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645226",
-    "hoTen": "Nguyễn Văn Cường",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845130",
-    "hoTen": "Trần Quốc Dũng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19645261",
-    "hoTen": "Huỳnh Hải Đăng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19845157",
-    "hoTen": "Lưu Trường Hậu",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20647017",
+    "hoTen": "Võ Hoàng Kiệt",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645234",
-    "hoTen": "Đỗ Đức Hiệp",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20647018",
+    "hoTen": "Phạm Thanh Lâm",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645237",
-    "hoTen": "Lê Minh Hoàng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20647024",
+    "hoTen": "Đỗ Lê Uy Phúc",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645278",
-    "hoTen": "Nguyễn Huy Hoàng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20647028",
+    "hoTen": "Nguyễn Hữu Tài",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645236",
-    "hoTen": "Đoàn Hữu Hòa",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20647030",
+    "hoTen": "Nguyễn Quốc Thái",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645262",
-    "hoTen": "Nguyễn Quang Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20847025",
+    "hoTen": "Phạm Quốc Thương",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645238",
-    "hoTen": "Cao Việt Hưng",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20647034",
+    "hoTen": "Lê Tấn Minh Tiên",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645241",
-    "hoTen": "Nguyễn Dương Khang",
-    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
+    "mssv": "20847027",
+    "hoTen": "Nguyễn Ngọc Trọng",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845133",
-    "hoTen": "Phạm Việt Khang",
+    "mssv": "19845177",
+    "hoTen": "Nguyễn Thanh Tân",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845158",
-    "hoTen": "Nguyễn Lê Hoàng Khải",
+    "mssv": "19845052",
+    "hoTen": "Văn Hoàng Phúc",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845163",
-    "hoTen": "Lê Thanh Long",
+    "mssv": "20645004",
+    "hoTen": "Nguyễn Văn Chí",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645247",
-    "hoTen": "Bùi Đình Phong",
+    "mssv": "20645021",
+    "hoTen": "Bùi Đức Anh",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845175",
-    "hoTen": "Nguyễn Duy Phương",
+    "mssv": "20645029",
+    "hoTen": "Phạm Quang Danh",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645267",
-    "hoTen": "Trần Minh Quang",
+    "mssv": "20645030",
+    "hoTen": "Nguyễn Thành Đạt",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645268",
-    "hoTen": "Trần Văn Quang",
+    "mssv": "20645036",
+    "hoTen": "Ngô Minh Hiếu",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845181",
-    "hoTen": "Phạm Quốc Tỉnh",
+    "mssv": "20645050",
+    "hoTen": "Lê Văn Khánh",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645292",
-    "hoTen": "Bùi Đức Tính",
+    "mssv": "20645057",
+    "hoTen": "Phan Chí Nguyện",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19645272",
-    "hoTen": "Nguyễn Anh Tuấn",
+    "mssv": "20645060",
+    "hoTen": "Lê Tuấn Phong",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845178",
-    "hoTen": "Trần Ngọc Thành",
+    "mssv": "20645062",
+    "hoTen": "Trần Văn Phước",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845182",
-    "hoTen": "Lê Phát Triệu",
+    "mssv": "20645079",
+    "hoTen": "Nguyễn Nhựt Tiến",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845183",
-    "hoTen": "Văn Hùng Vĩ",
+    "mssv": "20845216",
+    "hoTen": "Đỗ Thành Quy",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19845184",
-    "hoTen": "Trần Thanh Vủ",
+    "mssv": "20845229",
+    "hoTen": "Phan Anh Thịnh",
     "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649001",
-    "hoTen": "Hồ Văn Trường An",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649002",
-    "hoTen": "Trần Văn Bình",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649003",
-    "hoTen": "Trần Quốc Cường",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649015",
-    "hoTen": "Lê Anh Tuấn",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "14549009",
-    "hoTen": "Trần Loan Iết",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18649011",
-    "hoTen": "Trương Quốc Hiếu",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18649012",
-    "hoTen": "Bùi Văn Huy",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18649195",
-    "hoTen": "Nguyễn Thành Nguyên",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18849013",
-    "hoTen": "Tô Thanh Lộc",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18849018",
-    "hoTen": "Trần Quốc Sữ",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18849023",
-    "hoTen": "Huỳnh Quan Vủ",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "18849044",
-    "hoTen": "Huỳnh Quốc Việt",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649022",
-    "hoTen": "Trần Thanh Châu",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649079",
-    "hoTen": "Huỳnh Thanh Duy",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19849013",
-    "hoTen": "Phạm Văn Đạt",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649082",
-    "hoTen": "Trương Minh Hải",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649092",
-    "hoTen": "Hồ Văn Ngoan",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649121",
-    "hoTen": "Dương Minh Đức",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649124",
-    "hoTen": "Xa Nguyễn Minh Hiếu",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19849018",
-    "hoTen": "Bùi Công Minh",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649138",
-    "hoTen": "Đỗ Đức Nghĩa",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649137",
-    "hoTen": "Võ Văn Nghĩa",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649139",
-    "hoTen": "Nguyễn Thái Nguyên",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19649149",
-    "hoTen": "Phan Thanh Thắng",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
     "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "19821032",
-    "hoTen": "Phạm Thị Kim Chi",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821035",
-    "hoTen": "Nguyễn Văn Duy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821033",
-    "hoTen": "Diệp Sương Đào",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821053",
-    "hoTen": "Lê Thị Minh Hà",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821036",
-    "hoTen": "Nguyễn Như Khánh Hảo",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821037",
-    "hoTen": "Trần Thị Thu Hiền",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821038",
-    "hoTen": "Nguyễn Thị Hòa",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821040",
-    "hoTen": "Trần Thị Trúc Ly",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821041",
-    "hoTen": "Trịnh Thị Tuyết Mai",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821042",
-    "hoTen": "Nguyễn Thị Nguyệt Nga",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821043",
-    "hoTen": "Nguyễn Thị Nguyệt",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821044",
-    "hoTen": "Nguyễn Thị Tuyết Nhân",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821055",
-    "hoTen": "Hàng Thị Phương",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821045",
-    "hoTen": "Lê Thị Mai Phương",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821047",
-    "hoTen": "Lý Thị Thúy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821046",
-    "hoTen": "Nguyễn Thị Thanh Thúy",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821049",
-    "hoTen": "Dương Thái Trân",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821051",
-    "hoTen": "Nguyễn Thụy Ngọc Vân",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821052",
-    "hoTen": "Trần Thị Tường Vi",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19821054",
-    "hoTen": "Ngô Ngọc Yến",
-    "nganh": "Kỹ Thuật  Nữ Công",
-    "danhHieu": "Cử nhân"
   },
   {
-    "mssv": "18810107",
-    "hoTen": "Phan Thành Lễ",
+    "mssv": "20610014",
+    "hoTen": "Phạm Thế Anh",
     "nganh": "Công Nghệ Thông Tin",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19610060",
-    "hoTen": "Nguyễn Phương Anh",
+    "mssv": "20810007",
+    "hoTen": "Phan Thị Quỳnh Giang",
     "nganh": "Công Nghệ Thông Tin",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19610061",
-    "hoTen": "Lê Quốc Bảo",
+    "mssv": "20810008",
+    "hoTen": "Trương Minh Hiếu",
     "nganh": "Công Nghệ Thông Tin",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19850001",
-    "hoTen": "Lê Huỳnh Anh",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19850013",
-    "hoTen": "Trần Thị Cẩm Tú",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19850041",
-    "hoTen": "Nguyễn Thanh Thảo",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "18650024",
-    "hoTen": "Trương Lê Mỹ Tuyền",
-    "nganh": "Sư Phạm Tiếng Anh",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "18825014",
-    "hoTen": "Trương Thị Thu Trang",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "18825019",
-    "hoTen": "Trần Minh Trí",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625001",
-    "hoTen": "Nguyễn Ngọc Minh Châu",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625003",
-    "hoTen": "Cao Thị Hồng Diễm",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625008",
-    "hoTen": "Huỳnh Thị Trúc Ly",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625010",
-    "hoTen": "Diệp Thị Hồng Nhung",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625011",
-    "hoTen": "Phan Thị Hồng Phúc",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625012",
-    "hoTen": "Võ Thị Trúc Phương",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625013",
-    "hoTen": "Nguyễn Thị Thủy Tiên",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625014",
-    "hoTen": "Trát Thị Quế Trân",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625018",
-    "hoTen": "Phạm Hoàng Viện",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625020",
-    "hoTen": "Cao Thị Thùy Vy",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625021",
-    "hoTen": "Hà Thị Xuyến",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625022",
-    "hoTen": "Nguyễn Thị Yến",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "20625023",
-    "hoTen": "Vũ Thị Yến",
-    "nganh": "Kế Toán",
-    "danhHieu": "Cử nhân"
-  },
-  {
-    "mssv": "19649087",
-    "hoTen": "Đỗ Trí Huệ",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20810025",
+    "hoTen": "Trần Trung Kiên",
+    "nganh": "Công Nghệ Thông Tin",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19649100",
-    "hoTen": "Vũ Duy Thiện",
-    "nganh": "Công Nghệ Kỹ Thuật Công Trình Xây Dựng",
+    "mssv": "20810032",
+    "hoTen": "Nguyễn Thị Cẩm Thúy",
+    "nganh": "Công Nghệ Thông Tin",
     "danhHieu": "Kỹ sư"
   },
   {
-    "mssv": "19842179",
+    "mssv": "20647033",
+    "hoTen": "Nguyễn Văn Thủy",
+    "nganh": "Công Nghệ Kỹ Thuật Nhiệt",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20842145",
+    "hoTen": "Dương Hiển Lành",
+    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
+    "danhHieu": "Kỹ sư"
+  },
+  {
+    "mssv": "20845083",
     "hoTen": "Nguyễn Tấn Tài",
-    "nganh": "Công Nghệ Kỹ Thuật Điện, Điện Tử",
-    "danhHieu": "Kỹ sư"
-  },
-  {
-    "mssv": "17543010",
-    "hoTen": "Phan Thành Nghĩa",
-    "nganh": "Công Nghệ Chế Tạo Máy",
+    "nganh": "Công Nghệ Kỹ Thuật Ô Tô",
     "danhHieu": "Kỹ sư"
   }
 ]

@@ -11,7 +11,8 @@ export class TotNghiepComponent implements AfterViewInit {
 
   listSv: SinhVienInfo[] = database;
   svInfo = new SinhVienInfo();
-  mssv = '';
+  mssv = '11111111';
+  isHaveImg = true;
 
   ngAfterViewInit(): void {
     document.body.classList.remove('bg-kt');
@@ -23,6 +24,7 @@ export class TotNghiepComponent implements AfterViewInit {
       const sv = this.listSv.find(x => x.mssv === this.mssv);
       if (sv?.hoTen) {
         this.mssv = '';
+        this.isHaveImg = true;
         this.svInfo = Object.assign({}, sv);
       }
     } else if (this.mssv.includes(';')) {
