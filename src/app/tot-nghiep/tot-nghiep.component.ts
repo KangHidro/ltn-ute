@@ -11,7 +11,7 @@ export class TotNghiepComponent implements AfterViewInit {
 
   listSv: SinhVienInfo[] = database;
   svInfo = new SinhVienInfo();
-  mssv = '11111111';
+  mssv = '';
   isHaveImg = true;
 
   ngAfterViewInit(): void {
